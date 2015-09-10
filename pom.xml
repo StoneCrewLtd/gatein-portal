@@ -1247,7 +1247,7 @@ memory option properties. This should be removed when we can just set the compil
         <plugin>
           <groupId>org.jibx</groupId>
           <artifactId>maven-jibx-plugin</artifactId>
-          <version>1.2.2</version>
+          <version>1.2.6</version>
         </plugin>
         <!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.-->
         <plugin>
@@ -1329,7 +1329,7 @@ memory option properties. This should be removed when we can just set the compil
                     <artifactId>
                       maven-jibx-plugin
                     </artifactId>
-                    <versionRange>[1.2.2,)</versionRange>
+                    <versionRange>[1.2.6,)</versionRange>
                     <goals>
                       <goal>bind</goal>
                     </goals>
